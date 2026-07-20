@@ -1,0 +1,37 @@
+差异基因-通路匹配分析参数
+========================
+
+分析时间: Mon Apr  6 14:44:31 2026 
+工作目录: D:/zsy/SX/Fomal-final/5-CIPS-shaixuan 
+
+输入文件:
+  差异基因文件: I6-vs-Con.known.up.DEG.csv 
+  GMT文件数: 55 
+
+筛选参数:
+  P值阈值: 0.05 
+  FDR阈值: 0.05 
+  最小|logFC|: 0 
+  使用FDR筛选: TRUE 
+  移除重复项: TRUE 
+
+基因处理:
+  基因ID类型: symbol 
+  标准化为大写: TRUE 
+  移除Ensembl版本: TRUE 
+
+统计信息:
+  原始差异基因数: 828 
+  筛选后差异基因数: 828 
+  上调基因数: 828 
+  下调基因数: 0 
+  通路总数: 55 
+  匹配基因数: 206 
+  匹配通路数: 48 
+  总映射数: 637 
+  未匹配基因数: 622 
+
+Venn图统计:
+  数据集1（ CAFs_vs_NFs_UP_DEGs ）:  828  个基因
+  数据集2（ Invasion-related gene set genes ）:  3115  个基因
+  重合基因数:  206 
