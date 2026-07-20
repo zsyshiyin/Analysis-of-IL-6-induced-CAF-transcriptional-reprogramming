@@ -1,0 +1,61 @@
+﻿Pathway,Category,Comparison,NES,FDR,NOM_pVal
+basement membrane,"basement 
+membrane",CAF-CM_vs_NF-CM,1.802538723,0.02899564,0.001383126
+basement membrane,"basement 
+membrane",CAF(+G-Rh2)-CM_vs_CAF-CM,-1.47022892,0.18000376,0.029010239
+basement membrane organization,"basement 
+membrane",CAF-CM_vs_NF-CM,1.739272838,0.036602586,0.007949126
+basement membrane organization,"basement 
+membrane",CAF(+G-Rh2)-CM_vs_CAF-CM,-0.972282407,0.642934433,0.491103203
+extracellular matrix,extracellular matrix,CAF-CM_vs_NF-CM,1.421342754,0.124419744,0.003267974
+extracellular matrix,extracellular matrix,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.177446771,0.387551887,0.086553323
+extracellular matrix structural constituent,extracellular matrix,CAF-CM_vs_NF-CM,1.776922409,0.030308997,0
+extracellular matrix structural constituent,extracellular matrix,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.735372696,0.093236386,0
+collagen-containing extracellular matrix,extracellular matrix,CAF-CM_vs_NF-CM,1.442020089,0.115493527,0.006920415
+collagen-containing extracellular matrix,extracellular matrix,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.089228803,0.484220371,0.2432
+ECM-receptor interaction,extracellular matrix,CAF-CM_vs_NF-CM,1.991315557,0.003282154,0
+ECM-receptor interaction,extracellular matrix,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.697747042,0.161314707,0.00172117
+collagen metabolic process,collagen,CAF-CM_vs_NF-CM,1.20932533,0.284535118,0.142666667
+collagen metabolic process,collagen,CAF(+G-Rh2)-CM_vs_CAF-CM,-0.974116753,0.64140325,0.53633218
+positive regulation of collagen biosynthetic process,collagen,CAF-CM_vs_NF-CM,1.590255643,0.064760974,0.025236593
+positive regulation of collagen biosynthetic process,collagen,CAF(+G-Rh2)-CM_vs_CAF-CM,-0.929107114,0.707138952,0.551020408
+positive regulation of collagen metabolic process,collagen,CAF-CM_vs_NF-CM,1.555493642,0.073065419,0.026984127
+positive regulation of collagen metabolic process,collagen,CAF(+G-Rh2)-CM_vs_CAF-CM,-0.89588139,0.752014185,0.614991482
+collagen fibril organization,collagen,CAF-CM_vs_NF-CM,1.342201997,0.16923506,0.071146245
+collagen fibril organization,collagen,CAF(+G-Rh2)-CM_vs_CAF-CM,-0.892659342,0.756067649,0.671163575
+collagen binding,collagen,CAF-CM_vs_NF-CM,1.751324188,0.034808349,0.001453488
+collagen binding,collagen,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.116530095,0.450220962,0.280918728
+epithelial to mesenchymal transition,EMT,CAF-CM_vs_NF-CM,1.866253436,0.025438589,0
+epithelial to mesenchymal transition,EMT,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.335097028,0.252775758,0.073813708
+positive regulation of cell motility,cell migration,CAF-CM_vs_NF-CM,1.81075277,0.028799902,0
+positive regulation of cell motility,cell migration,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.599868449,0.122392726,0
+positive regulation of locomotion,cell migration,CAF-CM_vs_NF-CM,1.821465653,0.028374128,0
+positive regulation of locomotion,cell migration,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.587324849,0.127221227,0
+positive regulation of cell migration,cell migration,CAF-CM_vs_NF-CM,1.846207255,0.026608899,0
+positive regulation of cell migration,cell migration,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.626498003,0.115090931,0
+epithelial cell migration,cell migration,CAF-CM_vs_NF-CM,1.786937063,0.028959715,0
+epithelial cell migration,cell migration,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.40115237,0.214478527,0.016313214
+positive regulation of epithelial cell migration,cell migration,CAF-CM_vs_NF-CM,1.809576053,0.029041401,0
+positive regulation of epithelial cell migration,cell migration,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.335616973,0.252544267,0.059726962
+cell-substrate adhesion,"cell
+-substrate",CAF-CM_vs_NF-CM,1.80653313,0.028815087,0
+cell-substrate adhesion,"cell
+-substrate",CAF(+G-Rh2)-CM_vs_CAF-CM,-1.281781806,0.293649513,0.02056962
+substrate adhesion-dependent cell spreading,"cell
+-substrate",CAF-CM_vs_NF-CM,1.817168803,0.028650014,0
+substrate adhesion-dependent cell spreading,"cell
+-substrate",CAF(+G-Rh2)-CM_vs_CAF-CM,-1.381192199,0.223916015,0.045936396
+cell-matrix adhesion,cell-matrix,CAF-CM_vs_NF-CM,1.84189636,0.026441741,0
+cell-matrix adhesion,cell-matrix,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.157449257,0.406635471,0.1648
+regulation of cell-matrix adhesion,cell-matrix,CAF-CM_vs_NF-CM,1.852905303,0.026587712,0
+regulation of cell-matrix adhesion,cell-matrix,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.672464526,0.106459629,0
+cell adhesion molecule binding,adhesion mechanism,CAF-CM_vs_NF-CM,1.883827765,0.025728035,0
+cell adhesion molecule binding,adhesion mechanism,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.460653015,0.184768955,0
+cell adhesion mediated by integrin,adhesion mechanism,CAF-CM_vs_NF-CM,1.837970144,0.027128854,0
+cell adhesion mediated by integrin,adhesion mechanism,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.269737921,0.302880416,0.137184116
+focal adhesion assembly,adhesion mechanism,CAF-CM_vs_NF-CM,1.974604156,0.016523972,0
+focal adhesion assembly,adhesion mechanism,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.398388322,0.215081886,0.036789298
+positive regulation of focal adhesion assembly,adhesion mechanism,CAF-CM_vs_NF-CM,1.714697298,0.040243419,0.006472492
+positive regulation of focal adhesion assembly,adhesion mechanism,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.345438149,0.245105008,0.114963504
+Focal adhesion,adhesion mechanism,CAF-CM_vs_NF-CM,1.945882327,0.006017282,0
+Focal adhesion,adhesion mechanism,CAF(+G-Rh2)-CM_vs_CAF-CM,-1.929602254,0.013969521,0
