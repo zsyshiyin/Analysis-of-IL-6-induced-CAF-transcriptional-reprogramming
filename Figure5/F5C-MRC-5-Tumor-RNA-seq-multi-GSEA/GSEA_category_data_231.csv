@@ -1,0 +1,39 @@
+﻿Pathway,Category,Comparison,NES,FDR,NOM_pVal
+cell-matrix adhesion,Cell adhesion,CAF-CM_vs_NF-CM,1.557831683,0.209440633,0.008571429
+cell-matrix adhesion,Cell adhesion,CAF-Inh-CM_vs_CAF-CM,-1.341474192,0.304568675,0.049295775
+cell-substrate adhesion,Cell adhesion,CAF-CM_vs_NF-CM,1.598385316,0.201643143,0
+cell-substrate adhesion,Cell adhesion,CAF-Inh-CM_vs_CAF-CM,-1.459566403,0.253044122,0.0041841
+integrin binding,Cell adhesion,CAF-CM_vs_NF-CM,1.835814909,0.127824795,0.00286533
+integrin binding,Cell adhesion,CAF-Inh-CM_vs_CAF-CM,-1.709574881,0.181948366,0.006493506
+cell adhesion molecule binding,Cell adhesion,CAF-CM_vs_NF-CM,1.883827765,0.025728035,0
+cell adhesion molecule binding,Cell adhesion,CAF-Inh-CM_vs_CAF-CM,-1.460653015,0.184768955,0
+focal adhesion assembly,Cell adhesion,CAF-CM_vs_NF-CM,1.974604156,0.016523972,0
+focal adhesion assembly,Cell adhesion,CAF-Inh-CM_vs_CAF-CM,-1.398388322,0.215081886,0.036789298
+Focal adhesion,Cell adhesion,CAF-CM_vs_NF-CM,1.945882327,0.006017282,0
+Focal adhesion,Cell adhesion,CAF-Inh-CM_vs_CAF-CM,-1.929602254,0.013969521,0
+substrate adhesion-dependent cell spreading,Cell migration,CAF-CM_vs_NF-CM,1.817168803,0.028650014,0
+substrate adhesion-dependent cell spreading,Cell migration,CAF-Inh-CM_vs_CAF-CM,-1.381192199,0.223916015,0.045936396
+positive regulation of cell motility,Cell migration,CAF-CM_vs_NF-CM,1.643884718,0.185901976,0
+positive regulation of cell motility,Cell migration,CAF-Inh-CM_vs_CAF-CM,-1.539008903,0.226205358,0
+positive regulation of locomotion,Cell migration,CAF-CM_vs_NF-CM,1.627413119,0.187421927,0
+positive regulation of locomotion,Cell migration,CAF-Inh-CM_vs_CAF-CM,-1.530089317,0.228909476,0
+positive regulation of cell migration,Cell migration,CAF-CM_vs_NF-CM,1.644927287,0.185386646,0
+positive regulation of cell migration,Cell migration,CAF-Inh-CM_vs_CAF-CM,-1.549809532,0.225881763,0
+positive regulation of epithelial to mesenchymal transition,EMT,CAF-CM_vs_NF-CM,1.652085392,0.183404364,0.025139665
+positive regulation of epithelial to mesenchymal transition,EMT,CAF-Inh-CM_vs_CAF-CM,-1.880825005,0.138322995,0.005747126
+positive regulation of collagen biosynthetic process,Collagen,CAF-CM_vs_NF-CM,1.590255643,0.064760974,0.025236593
+positive regulation of collagen biosynthetic process,Collagen,CAF-Inh-CM_vs_CAF-CM,-0.929107114,0.707138952,0.551020408
+positive regulation of collagen metabolic process,Collagen,CAF-CM_vs_NF-CM,1.555493642,0.073065419,0.026984127
+positive regulation of collagen metabolic process,Collagen,CAF-Inh-CM_vs_CAF-CM,-0.89588139,0.752014185,0.614991482
+collagen binding,Collagen,CAF-CM_vs_NF-CM,1.751324188,0.034808349,0.001453488
+collagen binding,Collagen,CAF-Inh-CM_vs_CAF-CM,-1.116530095,0.450220962,0.280918728
+extracellular matrix,Extracellular matrix,CAF-CM_vs_NF-CM,1.421342754,0.124419744,0.003267974
+extracellular matrix,Extracellular matrix,CAF-Inh-CM_vs_CAF-CM,-1.177446771,0.387551887,0.086553323
+extracellular matrix structural constituent,Extracellular matrix,CAF-CM_vs_NF-CM,1.776922409,0.030308997,0
+extracellular matrix structural constituent,Extracellular matrix,CAF-Inh-CM_vs_CAF-CM,-1.735372696,0.093236386,0
+collagen-containing extracellular matrix,Extracellular matrix,CAF-CM_vs_NF-CM,1.442020089,0.115493527,0.006920415
+collagen-containing extracellular matrix,Extracellular matrix,CAF-Inh-CM_vs_CAF-CM,-1.089228803,0.484220371,0.2432
+ECM-receptor interaction,Extracellular matrix,CAF-CM_vs_NF-CM,1.991315557,0.003282154,0
+ECM-receptor interaction,Extracellular matrix,CAF-Inh-CM_vs_CAF-CM,-1.697747042,0.161314707,0.00172117
+basement membrane,Basement membrane,CAF-CM_vs_NF-CM,1.802538723,0.02899564,0.001383126
+basement membrane,Basement membrane,CAF-Inh-CM_vs_CAF-CM,-1.47022892,0.18000376,0.029010239

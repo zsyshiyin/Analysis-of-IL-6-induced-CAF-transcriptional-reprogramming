@@ -1,0 +1,43 @@
+﻿Pathway,Category,Comparison,NES,FDR,NOM_pVal
+cell adhesion molecule binding,Cell adhesion,NF-CM_vs_Self-CM,-1.798687803,0.024666671,0
+cell adhesion molecule binding,Cell adhesion,CAF-CM_vs_Self-CM,1.315572521,0.464119675,0.012474012
+cell adhesion mediated by integrin,Cell adhesion,NF-CM_vs_Self-CM,-1.670802339,0.044949051,0.00284495
+cell adhesion mediated by integrin,Cell adhesion,NF-CM_vs_Self-CM,-1.670802339,0.044949051,0.00284495
+cell adhesion mediated by integrin,Cell adhesion,CAF-CM_vs_Self-CM,-1.490581154,0.254936448,0.037807183
+Focal adhesion,Cell adhesion,NF-CM_vs_Self-CM,-1.873751729,0.007342266,0
+Focal adhesion,Cell adhesion,CAF-CM_vs_Self-CM,1.21512915,0.532674969,0.060606061
+cell-matrix adhesion,Cell adhesion,NF-CM_vs_Self-CM,-1.945952068,0.007481119,0
+cell-matrix adhesion,Cell adhesion,CAF-CM_vs_Self-CM,-1.220903362,0.48756617,0.107208872
+cell-substrate adhesion,Cell adhesion,NF-CM_vs_Self-CM,-1.847622838,0.018166716,0
+cell-substrate adhesion,Cell adhesion,CAF-CM_vs_Self-CM,-1.229088137,0.485736803,0.05973025
+substrate adhesion-dependent cell spreading,Cell adhesion,NF-CM_vs_Self-CM,-1.765209159,0.029274885,0
+substrate-dependent cell migration,cell migration,NF-CM_vs_Self-CM,-1.92137404,0.010492793,0
+positive regulation of cell motility,cell migration,NF-CM_vs_Self-CM,-1.748366001,0.031815412,0
+positive regulation of locomotion,cell migration,NF-CM_vs_Self-CM,-1.751313626,0.03118004,0
+epithelial cell migration,cell migration,NF-CM_vs_Self-CM,-1.704284259,0.039721179,0
+positive regulation of epithelial cell migration,cell migration,NF-CM_vs_Self-CM,-1.776373902,0.027015713,0
+epithelial to mesenchymal transition,EMT,NF-CM_vs_Self-CM,-1.68056672,0.043414157,0.001358696
+epithelial to mesenchymal transition,EMT,CAF-CM_vs_Self-CM,1.42935699,0.390806572,0.026970954
+collagen binding,Collagen,NF-CM_vs_Self-CM,-1.893107237,0.013331826,0.001388889
+collagen binding,Collagen,CAF-CM_vs_Self-CM,-1.494684753,0.251855098,0.018367347
+collagen biosynthetic process,Collagen,NF-CM_vs_Self-CM,-1.408847578,0.136001113,0.066469719
+collagen trimer,Collagen,CAF-CM_vs_Self-CM,1.844550263,0.137081792,0
+collagen catabolic process,Collagen,CAF-CM_vs_Self-CM,1.867929051,0.11562911,0.004237288
+collagen metabolic process,Collagen,CAF-CM_vs_Self-CM,1.343815585,0.442467883,0.039915966
+extracellular matrix assembly,Extracellular matrix,NF-CM_vs_Self-CM,-1.947617883,0.007358053,0
+collagen-containing extracellular matrix,Extracellular matrix,NF-CM_vs_Self-CM,-1.611873879,0.060273747,0
+collagen-containing extracellular matrix,Extracellular matrix,CAF-CM_vs_Self-CM,-1.287265752,0.424862909,0.029962547
+extracellular matrix,Extracellular matrix,NF-CM_vs_Self-CM,-1.440488485,0.120443964,0.002214839
+extracellular matrix,Extracellular matrix,CAF-CM_vs_Self-CM,-1.168555103,0.538806829,0.092081031
+extracellular matrix organization,Extracellular matrix,NF-CM_vs_Self-CM,-1.562835779,0.075401717,0.002275313
+extracellular matrix structural constituent,Extracellular matrix,NF-CM_vs_Self-CM,-1.609191268,0.060999216,0.002663116
+extracellular matrix structural constituent,Extracellular matrix,CAF-CM_vs_Self-CM,1.32706488,0.452150559,0.061601643
+extracellular matrix binding,Extracellular matrix,NF-CM_vs_Self-CM,-1.699490947,0.040484968,0.002840909
+extracellular matrix binding,Extracellular matrix,CAF-CM_vs_Self-CM,-1.619621133,0.163222975,0.015151515
+ECM-receptor interaction,Extracellular matrix,NF-CM_vs_Self-CM,-1.752753411,0.014948743,0
+extracellular matrix assembly,Extracellular matrix,CAF-CM_vs_Self-CM,1.383968404,0.419297562,0.084168337
+extracellular matrix disassembly,Extracellular matrix,CAF-CM_vs_Self-CM,1.406506943,0.40595911,0.041928721
+basement membrane organization,Basement membrane,NF-CM_vs_Self-CM,-2.054253032,0.003328067,0
+basement membrane organization,Basement membrane,CAF-CM_vs_Self-CM,1.126989035,0.602355003,0.291404612
+basement membrane,Basement membrane,NF-CM_vs_Self-CM,-1.866779817,0.016460723,0
+basement membrane,Basement membrane,CAF-CM_vs_Self-CM,1.031403485,0.689026992,0.412601626
