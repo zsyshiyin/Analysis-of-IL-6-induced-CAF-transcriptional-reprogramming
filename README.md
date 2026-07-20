@@ -1,0 +1,2 @@
+# Analysis-of-IL-6-induced-CAF-transcriptional-reprogramming
+This study includes transcriptomic and secretomic analyses of fibroblasts, transcriptomic analysis of tumor cells treated with fibroblast-conditioned medium, and integrative analysis code, together with analysis code for public single-cell RNA-seq, spatial transcriptomics, and bulk RNA-seq data obtained from GEO, TCGA, and 10x Genomics Datasets.
